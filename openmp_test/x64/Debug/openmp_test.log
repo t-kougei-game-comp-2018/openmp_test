@@ -1,0 +1,17 @@
+﻿LINK : error LNK2001: 外部シンボル "openmp_test/openmp_test/openmp_test.cpp" は未解決です。
+openmp_test.obj : error LNK2019: 未解決の外部シンボル __imp___acrt_iob_func が関数 printf で参照されました。
+openmp_test.obj : error LNK2019: 未解決の外部シンボル __imp___stdio_common_vfprintf が関数 _vfprintf_l で参照されました。
+openmp_test.obj : error LNK2019: 未解決の外部シンボル __imp_system が関数 main で参照されました。
+MSVCRTD.lib(_init_.obj) : error LNK2019: 未解決の外部シンボル _CrtDbgReport が関数 _CRT_RTC_INIT で参照されました。
+MSVCRTD.lib(_init_.obj) : error LNK2019: 未解決の外部シンボル _CrtDbgReportW が関数 _CRT_RTC_INITW で参照されました。
+MSVCRTD.lib(_error_.obj) : error LNK2019: 未解決の外部シンボル strcpy_s が関数 "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z) で参照されました。
+MSVCRTD.lib(_error_.obj) : error LNK2019: 未解決の外部シンボル strcat_s が関数 "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z) で参照されました。
+MSVCRTD.lib(_error_.obj) : error LNK2019: 未解決の外部シンボル __stdio_common_vsprintf_s が関数 _vsprintf_s_l で参照されました。
+MSVCRTD.lib(_error_.obj) : error LNK2001: 外部シンボル "__C_specific_handler" は未解決です。
+MSVCRTD.lib(_pdblkup_.obj) : error LNK2019: 未解決の外部シンボル _wmakepath_s が関数 "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z) で参照されました。
+MSVCRTD.lib(_pdblkup_.obj) : error LNK2019: 未解決の外部シンボル _wsplitpath_s が関数 "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z) で参照されました。
+MSVCRTD.lib(_pdblkup_.obj) : error LNK2019: 未解決の外部シンボル wcscpy_s が関数 "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z) で参照されました。
+MSVCRTD.lib(_pdblkup_.obj) : error LNK2019: 未解決の外部シンボル __vcrt_GetModuleFileNameW が関数 "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ) で参照されました。
+MSVCRTD.lib(_pdblkup_.obj) : error LNK2019: 未解決の外部シンボル __vcrt_GetModuleHandleW が関数 "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ) で参照されました。
+MSVCRTD.lib(_pdblkup_.obj) : error LNK2019: 未解決の外部シンボル __vcrt_LoadLibraryExW が関数 "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ) で参照されました。
+C:\Users\oonuk\Desktop\openmp_test-master\openmp_test-master\x64\Debug\openmp_test.exe : fatal error LNK1120: 16 件の未解決の外部参照
