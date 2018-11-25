@@ -1,0 +1,3 @@
+﻿  openmp_test.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  openmp_test.vcxproj -> C:\Users\shigeru\Pictures\課題\openmp_test-master\x64\Debug\openmp_test.exe
